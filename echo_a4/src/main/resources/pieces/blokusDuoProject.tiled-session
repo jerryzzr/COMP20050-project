@@ -1,0 +1,100 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "/home/agbodesi/GitHub/echo/src/main/resources/prototype.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "/home/agbodesi/Downloads/comprehensive-libgdx-example/src/main/resources/play.tmx": {
+            "scale": 0.321923828125,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 514.0967693007735,
+                "y": 386.73744880934333
+            }
+        },
+        "/home/agbodesi/Downloads/comprehensive-libgdx-example/src/main/resources/play.tmx#tiles": {
+            "scaleInDock": 1
+        },
+        "/home/agbodesi/Downloads/prototype/prototype.tmx": {
+            "scale": 0.497265625,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 510.7934014139827,
+                "y": 382.089552238806
+            }
+        },
+        "/home/agbodesi/Downloads/prototype/prototype.tmx#tiles": {
+            "scaleInDock": 1
+        },
+        "/home/agbodesi/Downloads/tiledmap-example/src/main/resources/sample_map.tmx": {
+            "scale": 2.0603125,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 80.32762020324586,
+                "y": 80.32762020324586
+            }
+        },
+        "/home/agbodesi/Downloads/tiledmap-example/src/main/resources/sample_map.tmx#tileset": {
+            "scaleInDock": 1
+        },
+        "/home/agbodesi/GitHub/echo/src/main/resources/prototype.tmx": {
+            "scale": 0.321923828125,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 743.9648111633551,
+                "y": 441.09813438495377
+            }
+        },
+        "/home/agbodesi/GitHub/echo/src/main/resources/prototype.tmx#tiles": {
+            "scaleInDock": 1
+        },
+        "/home/agbodesi/GitHub/echo/src/main/resources/prototype/prototype.tmx": {
+            "scale": 0.497265625,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 512.8043990573449,
+                "y": 385.1060487038492
+            }
+        },
+        "/home/agbodesi/GitHub/echo/src/main/resources/prototype/prototype.tmx#tiles": {
+            "scaleInDock": 1
+        },
+        "aquaBlock.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "greenBlock.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "orangeBlock.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "/home/agbodesi/GitHub/echo/src/main/resources/blocks",
+    "map.height": 32,
+    "map.width": 32,
+    "openFiles": [
+        "/home/agbodesi/Downloads/prototype/prototype.tmx",
+        "/home/agbodesi/GitHub/echo/src/main/resources/prototype.tmx"
+    ],
+    "project": "blokusDuoProject.tiled-project",
+    "recentFiles": [
+        "/home/agbodesi/Downloads/prototype/prototype.tmx",
+        "/home/agbodesi/GitHub/echo/src/main/resources/prototype.tmx",
+        "/home/agbodesi/GitHub/echo/src/main/resources/prototype/prototype.tmx",
+        "aquaBlock.tsx",
+        "greenBlock.tsx",
+        "orangeBlock.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 22,
+        "width": 22
+    }
+}

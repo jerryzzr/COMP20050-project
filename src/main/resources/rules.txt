@@ -1,0 +1,19 @@
+Each player starts the game with a set of 21 game pieces. 
+
+Each player has to fit as many of their 21 pieces on the board as possible. 
+
+Each player in turn places one of their pieces on their starting point. 
+
+Play continues as each player lays down one piece each turn. 
+	Each new piece must touch at least one other piece of the same color, but only at the corners. 
+	No flat edges of same colored pieces can touch. 
+	There are no restrictions on how differently colored pieces can touch one another. 
+	Once a game piece has been placed on the board it cannot be moved during subsequent turns. 
+
+When a player is unable to place one of their remaining pieces on the board, that player must pass. 
+
+The game ends when both players are blocked from laying down any more pieces. This also includes a player who may have placed all of their pieces on the board. Scores are tallied, and the player with the highest score is the winner. 
+
+The number of unit squares in each player has in their remaining pieces is counted (1 unit square = -1 point). If a player places all 21 pieces on the board, they earn +15 points. The receive an additional 5 bonus points if the last piece placed on the board was the smallest piece (one square). 
+
+The player with the highest score wins! 

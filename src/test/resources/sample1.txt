@@ -1,0 +1,41 @@
+John
+Mary
+T5 r r r p 6 9
+Z5 f p 9 4
+N r r p 4 6
+X p 6 6
+L4 r r r p 5 4
+Y f r r p 2 5
+F f r r p 7 3
+T5 p 9 0
+T4 p 8 11
+T4 r r r p 9 7
+Z5 p 9 9
+V5 r p 7 10
+P r r r p 5 0
+F p 10 12
+I2 p 11 11
+Z4 f r p 12 12
+I5 p 12 6
+I5 p 11 6
+V5 r r p 11 5
+V3 p 11 1
+U r r p 13 1
+O4 p 12 4
+W r r r p 2 3
+N f p 5 3
+Y p 1 0
+L4 f r r r p 4 1
+I4 p 0 5
+P f r r r p 4 11
+X p 2 10
+W r r p 2 8
+L5 f p 6 12
+U p 0 10
+O4 p 0 12
+L5 f r r p 2 13
+I1 p 10 2
+I2 p 7 12
+I4 p 0 1
+I3 p 13 8
+I1 p 7 1

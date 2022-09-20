@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.3.2" orientation="orthogonal" renderorder="right-down" compressionlevel="0" width="32" height="24" tilewidth="32" tileheight="32" infinite="0" nextlayerid="5" nextobjectid="48">
+ <tileset firstgid="1" name="tiles" tilewidth="32" tileheight="32" tilecount="6" columns="3">
+  <image source="game_squares.png" width="96" height="64"/>
+ </tileset>
+ <imagelayer id="2" name="Image Layer">
+  <image source="city.jpeg" width="1024" height="768"/>
+ </imagelayer>
+ <layer id="1" name="Tile Layer" width="32" height="24">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,6,6,6,6,6,6,6,6,6,6,6,6,6,6,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,6,6,6,6,6,6,6,6,6,6,6,6,6,6,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,6,6,6,6,6,6,6,6,6,6,6,6,6,6,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,6,6,6,6,6,6,6,6,6,6,6,6,6,6,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,6,6,6,6,3,6,6,6,6,6,6,6,6,6,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,6,6,6,6,6,6,6,6,6,6,6,6,6,6,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,6,6,6,6,6,6,6,6,6,6,6,6,6,6,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,6,6,6,6,6,6,6,6,6,6,6,6,6,6,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,6,6,6,6,6,6,6,6,6,6,6,6,6,6,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,6,6,6,6,6,6,6,6,6,2,6,6,6,6,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,6,6,6,6,6,6,6,6,6,6,6,6,6,6,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,6,6,6,6,6,6,6,6,6,6,6,6,6,6,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,6,6,6,6,6,6,6,6,6,6,6,6,6,6,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,6,6,6,6,6,6,6,6,6,6,6,6,6,6,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <objectgroup id="3" name="Object Layer">
+  <object id="1" name="0I1" x="0" y="32" width="32" height="32"/>
+  <object id="3" name="0I2" x="0" y="128" width="32" height="32"/>
+  <object id="4" name="0I3" x="0" y="256" width="32" height="32"/>
+  <object id="5" name="0I4" x="0" y="416" width="32" height="32"/>
+  <object id="6" name="0I5" x="0" y="608" width="32" height="32"/>
+  <object id="7" name="0V3" x="64" y="64" width="32" height="32"/>
+  <object id="8" name="0L4" x="64" y="192" width="32" height="32"/>
+  <object id="9" name="0Y" x="96" y="288" width="32" height="32"/>
+  <object id="10" name="0O4" x="64" y="384" width="32" height="32"/>
+  <object id="11" name="0U" x="64" y="480" width="32" height="32"/>
+  <object id="12" name="0N" x="96" y="576" width="32" height="32"/>
+  <object id="13" name="0T4" x="32" y="704" width="32" height="32"/>
+  <object id="14" name="0X" x="192" y="64" width="32" height="32"/>
+  <object id="15" name="0T5" x="192" y="224" width="32" height="32"/>
+  <object id="16" name="0Z5" x="192" y="352" width="32" height="32"/>
+  <object id="17" name="0V5" x="160" y="512" width="32" height="32"/>
+  <object id="18" name="0L5" x="128" y="704" width="32" height="32"/>
+  <object id="19" name="0W" x="320" y="64" width="32" height="32"/>
+  <object id="20" name="0Z4" x="416" y="96" width="32" height="32"/>
+  <object id="21" name="0P" x="512" y="32" width="32" height="32"/>
+  <object id="22" name="0F" x="640" y="64" width="32" height="32"/>
+  <object id="23" name="1W" x="352" y="672" width="32" height="32"/>
+  <object id="24" name="1Z4" x="448" y="704" width="32" height="32"/>
+  <object id="25" name="1P" x="544" y="640" width="32" height="32"/>
+  <object id="26" name="1F" x="672" y="672" width="32" height="32"/>
+  <object id="27" name="1T4" x="800" y="704" width="32" height="32"/>
+  <object id="28" name="1L5" x="896" y="704" width="32" height="32"/>
+  <object id="29" name="1N" x="800" y="576" width="32" height="32"/>
+  <object id="30" name="1U" x="768" y="480" width="32" height="32"/>
+  <object id="31" name="1V5" x="864" y="512" width="32" height="32"/>
+  <object id="32" name="1O4" x="768" y="384" width="32" height="32"/>
+  <object id="33" name="1Z5" x="896" y="352" width="32" height="32"/>
+  <object id="34" name="1Y" x="800" y="288" width="32" height="32"/>
+  <object id="35" name="1L4" x="768" y="192" width="32" height="32"/>
+  <object id="36" name="1T5" x="896" y="224" width="32" height="32"/>
+  <object id="37" name="1V3" x="768" y="64" width="32" height="32"/>
+  <object id="38" name="1X" x="896" y="64" width="32" height="32"/>
+  <object id="39" name="1I5" x="992" y="608" width="32" height="32"/>
+  <object id="40" name="1I4" x="992" y="416" width="32" height="32"/>
+  <object id="41" name="1I3" x="992" y="256" width="32" height="32"/>
+  <object id="42" name="1I2" x="992" y="128" width="32" height="32"/>
+  <object id="43" name="1I1" x="992" y="32" width="32" height="32"/>
+  <object id="46" name="Board" x="288" y="160" width="448" height="448"/>
+ </objectgroup>
+</map>

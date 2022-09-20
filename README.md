@@ -1,1 +1,2 @@
-# COMP20050-project
+# echo
+Team repository for COMP20050 project

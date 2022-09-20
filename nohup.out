@@ -1,0 +1,2 @@
+Warning: Ignoring XDG_SESSION_TYPE=wayland on Gnome. Use QT_QPA_PLATFORM=wayland to run on Wayland anyway.
+"No such interface “org.freedesktop.DBus.Properties” on object at path /org/freedesktop/NetworkManager/ActiveConnection/1"
